@@ -1,4 +1,4 @@
-package com.michellemadeira.hrpayroll.config;
+ package com.michellemadeira.hrpayroll.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
